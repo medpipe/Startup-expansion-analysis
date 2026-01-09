@@ -47,4 +47,4 @@ Le dashboard permet de :
 
 . Faciliter l’analyse pour les décideurs
 
-![Power BI Dashboard](C:\Users\Mohamed SLIMANI\Desktop\dashboard_startup_expansion.PNG)
+![Power BI Dashboard](C:/Users/Mohamed SLIMANI/Desktop/dashboard_startup_expansion.PNG)
