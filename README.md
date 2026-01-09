@@ -20,7 +20,7 @@ L’objectif est d’aider à la prise de décision stratégique en identifiant 
 
 . Python (Jupyter Notebook)
 
-    . Pandas
+  . Pandas
 
 . Power BI
 
